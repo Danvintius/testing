@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.payments li {
+  color: red;
+}
+
+button {
+  background-color: green;
+  border: none;
+}
+
+span {
+  color: white;
+}
+
+ul {
+  display: flex;
+}
