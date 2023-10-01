@@ -5,6 +5,7 @@ html {
 
 .payments li {
   color: red;
+  list-style-type: none;
 }
 
 button {
