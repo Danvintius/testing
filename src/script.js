@@ -1,7 +1,7 @@
 export default function validate(number) {
   number = number.replace(/\D/g, '');
  
-     var nCheck = 0;
+     дуе nCheck = 0;
      var bEven = false;
  
      for (var n = number.length - 1; n >= 0; n--) {
@@ -30,5 +30,4 @@ export default function validate(number) {
        return paymentSystems.get(key);
      } 
    }
-   }
- }
+   
